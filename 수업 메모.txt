@@ -1,3 +1,7 @@
+https://jeonguk29.github.io/WEB1_JJK/.
+
+
+
 https://www.advancedwebranking.com/html/
 전 세계에 있는 웹페이지들이
 몇 종류의 태그로 이루어져 있는지를 보여주고 있는 사이트
@@ -23,3 +27,55 @@ ex 브라우져에서 100페이지 까지 가본적 없음 그만크 태그 본질이 중요함 브라우져가 
 
 https://unsplash.com/
 저작권 없이 사용할 수 있는 고 퀄 이미지 사이트  
+
+
+깃허브는 무료료 웹 사이트를 운영할 수 있도록 컴퓨터(인터넷과 연결된 host 웹서버를 운영할 수 있는 컴퓨터)와 웹서버를 우리한테 제공해줌 (이것이 바로 웹 호스팅임 )
+웹 호스팅에 대한 설명 그래고 종류 참고 사이트
+https://www.youtube.com/watch?v=n1wvs7xuUYk&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb&index=18
+
+인터넷이 동작 하기 기본적인 원리 최소 컴퓨터 두개가 필요함 클라이언트 컴퓨터 서버 컴퓨터
+웹 브라우져도 웹 클라이언트임 
+
+
+서버(제품군) 설치 = 아파치 (제품명)
+https://www.youtube.com/watch?v=Bvzzee7-kuQ&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb&index=20
+
+bitnami wamp 로 설치함
+w 윈도우
+a 아파치
+m mysql
+p php
+
+
+http://127.0.0.1/index.html
+
+127.0.0.1 이 ip는 웹브라우저가 설치된 각자의 컴퓨터의 웹 서버를 가리킨다.
+현제 우리는 한대의 컴퓨터의 웹 브라우져와 웹 서버가 같이 설치되어 있음
+
+즉 모든 컴퓨터가 자기 자신을 127.0.0.1이라고 하기로 전세계적으로 약속되어 있음 
+
+정말 중요개념 웹 브라우저에서 파일 오픈으로 문서를 여는 것과 서버를 이용해 여는것 
+https://www.youtube.com/watch?v=had7IqJHEKM&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb&index=21
+http 와 file 차이 참고로 하이퍼 텍스트는 웹페이지라는 뜻 임 
+서로 다른 컴퓨터에 있는 웹 브라우저와 웹서버가 통신 하기 위해서는 반드시 http를 사용해야함 
+
+
+동영상 삽입하는 법
+https://www.youtube.com/watch?v=7T7r_oSp0SE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb&index=31
+
+
+
+댓글 기능 추가 (소스 로만)
+https://www.youtube.com/watch?v=LVLHprUg-PM&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb&index=32
+
+
+가능 하게 해주는 사이트
+https://disqus.com/
+
+사용자와 채팅기능 하게 해주는 소스 한줄
+강의
+https://www.youtube.com/watch?v=d4H1ua2USa8&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb&index=33
+
+사이트
+https://dashboard.tawk.to/#/chat
+
